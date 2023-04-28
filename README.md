@@ -14,5 +14,3 @@
 - 12 - Temple Entrance - Explore a temple revealed by an avalanche
   - Region: Copperneck Mountains
   - Unlocks 20
-- 114 - Work Freeze - Help Pinter use explosives to open up better paths to FH
-  - Unlocks 115 (Calendar)
