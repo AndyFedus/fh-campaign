@@ -8,8 +8,5 @@
   - Unlocks 20
 - 13 - Frozen Fjord - Track the lurkers by land
   - Unlocks 21, 32
-- 22 - Ice Floes - Hunt the Lurker Crown
-  - Requires: Boat
-  - Unlocks 33 (via Calendar)
 - 115 - Pylon Problems - Defend Droman's pylons
   - Unlocks 116 (via Calendar)
