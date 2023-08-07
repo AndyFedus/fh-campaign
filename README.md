@@ -6,9 +6,6 @@
 - 12 - Temple Entrance - Explore a temple revealed by an avalanche
   - Region: Copperneck Mountains
   - Unlocks 20
-- 22 - Ice Floes - Continue to follow the Coral Shard out to sea
-  - Requires Boat
-  - Unlocks 33 (via Calendar)
 - 28 - Summit Meeting - Follow Icespeaker Chief Elland to the peace summit with the Snowspeakers
   - Can be locked-out
   - Unlocks 38
