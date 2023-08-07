@@ -6,13 +6,18 @@
 - 12 - Temple Entrance - Explore a temple revealed by an avalanche
   - Region: Copperneck Mountains
   - Unlocks 20
-- 21 - Realm of Endless Frost - Continue to follow the Coral Shard along the northern coast
-  - Requires Sled
-  - Contains Boss encounter
 - 22 - Ice Floes - Continue to follow the Coral Shard out to sea
   - Requires Boat
   - Unlocks 33 (via Calendar)
+- 28 - Summit Meeting - Follow Icespeaker Chief Elland to the peace summit with the Snowspeakers
+  - Can be locked-out
+  - Unlocks 38
+- 30 - War of the Spire B - Follow Icespeaker Putargal to counterattack the Snowspeakers
+  - Can be locked-out
+  - Unlocks 40 (via Calendar)
 - 32 - Ravens' Roost - Investigate the bird-men that attacked us in Frozen Fjord
   - Region: Radiant Forest
+- 33 - Thawed Wood - Find a heat source for the Lurker-Crown-finding bathysphere
+  - Unlocks 42 (via Calendar)
 - 115 - Pylon Problems - Defend Droman's pylons
   - Unlocks 116 (via Calendar)
