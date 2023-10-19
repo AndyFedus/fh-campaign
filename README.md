@@ -11,8 +11,5 @@
 - 38 - The Way Forward - Escort the Algox emissaries to their Oracle, Mar'ogh
   - Region: Whitefire Woods
   - Unlocks 45, 46
-- 104 - Ruins of the Solstice - Investigate the Rainbow Key
-  - Requires Sled
-  - Leads to 105 (via event)
 - 115 - Pylon Problems - Defend Droman's pylons
   - Unlocks 116 (via Calendar)
