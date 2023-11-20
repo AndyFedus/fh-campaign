@@ -8,7 +8,7 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - 15 - Ancient Spire - March to the largest spire
   - Region: Crystal Fields
   - Linked to 23, 24
-- 16 - Derelict Elevator - Investigate the shoter, wider spire
+- 16 - Derelict Elevator - Investigate the shorter, wider spire
   - Region: Crystal Fields
   - Linked to 25, 26
 - 38 - The Way Forward - Escort the Algox emissaries to their Oracle, Mar'ogh
