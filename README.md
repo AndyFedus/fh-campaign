@@ -24,4 +24,4 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
   - Unlocks 116 (via Calendar)
 - 120 - Under the Influence - Figure out what made us want to disembowel ourselves
   - Region: Frosthaven
-  - Was unlocked by event34e
+  - Was unlocked by event
