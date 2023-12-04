@@ -14,12 +14,13 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - 38 - The Way Forward - Escort the Algox emissaries to their Oracle, Mar'ogh
   - Region: Whitefire Woods
   - Unlocks 45, 46
+- 42 - Sunless Trench - Use the bathysphere to find a shard of the Lurker Crown
+  - Region: Biting Sea
+  - Requires: Boat
+  - Contains a shard of the Lurker Crown
 - 99 - Prison Break - Accept the job posting of an elderly Orchid
   - Unlocks 100
   - Was unlocked from job posting (town guard upgrade)
-- 111 - Ice Cave - Explore a cave that we saw in a mirror
-  - Requires Sled
-  - Was unlocked from Random Side Scenario deck
 - 115 - Pylon Problems - Defend Droman's pylons
   - Unlocks 116 (via Calendar)
 - 120 - Under the Influence - Figure out what made us want to disembowel ourselves
