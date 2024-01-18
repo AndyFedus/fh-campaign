@@ -14,11 +14,13 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - 38 - The Way Forward - Escort the Algox emissaries to their Oracle, Mar'ogh
   - Region: Whitefire Woods
   - Unlocks 45, 46
+- 79 - Relic - Accept the job posting to find a relic
+  - Requires Sled
+  - Unlocks 80 (via calendar)
+  - Was unlocked from job posting (town guard upgrade)
 - 99 - Prison Break - Accept the job posting of an elderly Orchid
   - Unlocks 100
   - Was unlocked from job posting (town guard upgrade)
-- 115 - Pylon Problems - Defend Droman's pylons
-  - Unlocks 116 (via Calendar)
 - 118 - Lurker Necromancy - Investigate a source of necromantic power with the Boneshaper
   - Requires Sled
 - 120 - Under the Influence - Figure out what made us want to disembowel ourselves
