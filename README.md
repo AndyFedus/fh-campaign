@@ -16,7 +16,7 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
   - Unlocks 45, 46
 - 49 - Beneath Sea and Stone - Without a mental bomb, fight a Lurker horde for a shard of the crown
    - Region: Biting Sea
-   - Unlocks 53 (linked AND must be played next without returning to Frosthaven)01
+   - Unlocks 53 (linked AND must be played next without returning to Frosthaven)
 - 79 - Relic - Accept the job posting to find a relic
   - Requires Sled
   - Unlocks 80 (requires calendar)
