@@ -8,9 +8,6 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - 16 - Derelict Elevator - Investigate the shorter, wider spire
   - Region: Crystal Fields
   - Linked to 25, 26
-- 20 - Temple of Liberation - Go deeper into the temple to find the automatons' power source
-  - Region: Copperneck Mountains
-  - Unlocks 31 (requires calendar AND puzzle AND green banner)
 - 38 - The Way Forward - Escort the Algox emissaries to their Oracle, Mar'ogh
   - Region: Whitefire Woods
   - Unlocks 45, 46
@@ -21,6 +18,10 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
   - Requires Sled
   - Unlocks 80 (requires calendar)
   - Was unlocked from job posting (town guard upgrade)
+- 90 - Frozen Treasure - Seek golden wristbands like the ones we saw on a mummy
+ - Region: Biting Sea
+ - Unlocks 91 (linked and must be played next)
+ - Was unlocked from job posting (town guard upgrade)
 - 99 - Prison Break - Accept the job posting of an elderly Orchid
   - Unlocks 100
   - Was unlocked from job posting (town guard upgrade)
