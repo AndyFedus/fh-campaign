@@ -19,16 +19,16 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
   - Unlocks 80 (requires calendar)
   - Was unlocked from job posting (town guard upgrade)
 - 90 - Frozen Treasure - Seek golden wristbands like the ones we saw on a mummy
- - Region: Biting Sea
- - Unlocks 91 (linked and must be played next)
- - Was unlocked from job posting (town guard upgrade)
+  - Region: Biting Sea
+  - Unlocks 91 (linked and must be played next)
+  - Was unlocked from job posting (town guard upgrade)
 - 99 - Prison Break - Accept the job posting of an elderly Orchid
   - Unlocks 100
   - Was unlocked from job posting (town guard upgrade)
 - 107 - My Private Empire - Accept the invitation of Emperor Vermillion
-   - Region: Copperneck Mountains
-   - Requires Climbing Gear
-   - Was unlocked as a random side scenario
+  - Region: Copperneck Mountains
+  - Requires Climbing Gear
+  - Was unlocked as a random side scenario
 - 118 - Lurker Necromancy - Investigate a source of necromantic power with the Boneshaper
   - Requires Sled
 - 120 - Under the Influence - Figure out what made us want to disembowel ourselves
