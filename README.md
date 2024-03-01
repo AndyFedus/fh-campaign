@@ -44,10 +44,10 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
   - Region: Frosthaven
   - Was unlocked by event
 - 132 - Temple of Feline Power - Follow Mulbrynn's map to a treasure
- - Enemies: Frost Demon, Frozen Corpse, Ice Wraith, Snow Imp
- - Region: Imperial Mountains
- - Unlocked by job posting
+  - Enemies: Frost Demon, Frozen Corpse, Ice Wraith, Snow Imp
+  - Region: Imperial Mountains
+  - Unlocked by job posting
 - 134 - Tower of Knowledge - Recover the Tome of Conflict for the librarian
- - Enemies: Flaming Bladespinner, Robotic Boltshooter, Ruined Machine, Shrike Fiend, Steel Automaton
- - Region: Radiant Forest
- - Requires "Into the Forest" achievement (we have it)
+  - Enemies: Flaming Bladespinner, Robotic Boltshooter, Ruined Machine, Shrike Fiend, Steel Automaton
+  - Region: Radiant Forest
+  - Requires "Into the Forest" achievement (we have it)
