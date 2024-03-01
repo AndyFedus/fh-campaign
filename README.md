@@ -4,36 +4,50 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 
 - 15 - Ancient Spire - March to the largest spire
   - Region: Crystal Fields
+  - Enemies: Chaos Demon, Robotic Boltshooter, Ruined Machine
   - Linked to 23, 24
 - 16 - Derelict Elevator - Investigate the shorter, wider spire
   - Region: Crystal Fields
+  - Enemies: Ancient Artillery, Flaming Bladespinner, Ruined Machine
   - Linked to 25, 26
-- 38 - The Way Forward - Escort the Algox emissaries to their Oracle, Mar'ogh
-  - Region: Whitefire Woods
-  - Unlocks 45, 46
 - 49 - Beneath Sea and Stone - Without a mental bomb, fight a Lurker horde for a shard of the crown
    - Region: Biting Sea
+   - Enemies: Black Imp, Deep Terror, Frost Demon
    - Unlocks 53 (linked AND must be played next without returning to Frosthaven)
 - 79 - Relic - Accept the job posting to find a relic
   - Requires Sled
+  - Enemies: Frozen Corpse, Ice Wraith, Polar Bear, Snow Imp
   - Unlocks 80 (requires calendar)
   - Was unlocked from job posting (town guard upgrade)
 - 90 - Frozen Treasure - Seek golden wristbands like the ones we saw on a mummy
   - Region: Biting Sea
+  - Enemies: Frozen Corpse, Ice Wraith, Polar Bear, Snow Imp
   - Unlocks 91 (linked and must be played next)
   - Was unlocked from job posting (town guard upgrade)
 - 99 - Prison Break - Accept the job posting of an elderly Orchid
+  - Enemies: Frozen Corpse, Robotic Boltshooter, Steel Automaton
   - Unlocks 100
   - Was unlocked from job posting (town guard upgrade)
 - 107 - My Private Empire - Accept the invitation of Emperor Vermillion
+  - Enemies: Flaming Bladespinner, Living Bones, Living Doom, Living Spirit, Robotic Boltshooter, Ruined Machine, Steel Automaton
   - Region: Copperneck Mountains
   - Requires Climbing Gear
   - Was unlocked as a random side scenario
-- 118 - Lurker Necromancy - Investigate a source of necromantic power with the Boneshaper
-  - Requires Sled
+- 112 - Raised by Wolves - Adopt a wolf pup
+  - Region: Frosthaven
+  - Enemies: Burrowing Blade, Chaos Demon, Earth Demon, Hound
+  - Unlocked by event
+- 116 - Caravan Guards - "Tour" Pinter Droman's new trade route
+  - Enemies: Algox Archer, Algox Guard, Algox Icespeaker, Algox Scout
 - 120 - Under the Influence - Figure out what made us want to disembowel ourselves
+  - Enemies: City Guard, Hound, Robotic Boltshooter, Steel Automaton, Vermling Priest, Vermling Scout
   - Region: Frosthaven
   - Was unlocked by event
+- 132 - Temple of Feline Power - Follow Mulbrynn's map to a treasure
+ - Enemies: Frost Demon, Frozen Corpse, Ice Wraith, Snow Imp
+ - Region: Imperial Mountains
+ - Unlocked by job posting
 - 134 - Tower of Knowledge - Recover the Tome of Conflict for the librarian
-   - Region: Radiant Forest
-   - Requires "Into the Forest" achievement (we have it)
+ - Enemies: Flaming Bladespinner, Robotic Boltshooter, Ruined Machine, Shrike Fiend, Steel Automaton
+ - Region: Radiant Forest
+ - Requires "Into the Forest" achievement (we have it)
