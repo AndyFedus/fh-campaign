@@ -19,6 +19,28 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 
 </details>
 <details>
+  <summary>45 - Living Glacier - Obtain magic ice to help purify the Algox corruption</summary>
+  
+- Storyline: Algox
+- Region: **Biting Sea**
+- Enemies: **Abael Herder, Abael Scout, Lightning Eel, Piranha Pig**
+- Requirements:
+  - [x] Climbing Gear
+- Unlocks: **52**
+
+</details>
+<details>
+  <summary>46 - Dead Pass - Obtain magic snow to help purify the Algox corruption</summary>
+  
+- Storyline: Algox
+- Region: **Copperneck Mountains**
+- Enemies: **Burrowing Blade, Frozen Corpse, Shrike Fiend**
+- Requirements:
+  - [x] Sled
+- Unlocks: **52**
+
+</details>
+<details>
   <summary>49 - Beneath Sea and Stone - Without a mental bomb, fight a Lurker horde for a shard of the crown</summary>
   
 - Region: **Biting Sea**
@@ -27,14 +49,10 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 
 </details>
 <details>
-  <summary>79 - Relic - Accept the job posting to find a relic</summary>
+  <summary>80 - Relic Renewed - Recover the relic cube after it rolled off into the wilderness</summary>
 
-- Was unlocked from job posting (town guard upgrade)
-- Requirements:
-  - [x] Sled
-- Region: **???**
-- Enemies: **Frozen Corpse, Ice Wraith, Polar Bear, Snow Imp**
-- Unlocks: **80 (requires calendar)**
+- Region: **Frosthaven**
+- Enemies: **Relic (Boss), Robotic Boltshooter, Ruined Machine, Steel Automaton**
 
 </details>
 <details>
