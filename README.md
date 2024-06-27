@@ -56,6 +56,21 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 
 </details>
 <details>
+  <summary>86 - The Lady in White - Save a girl's brothers from The Collector</summary>
+- Job Posting
+- Region: **Frosthaven**
+- Enemies: **Black Imp, Earth Demon, Ice Wraith**
+
+</details>
+<details>
+  <summary>87 - The Collection - Save a girl's brothers from The Collector</summary>
+- Job Posting
+- Region: **Whitefire Woods**
+- Enemies: **Algox Archer, Algox Guard, Flaming Bladespinner, Lurker Clawcrusher, Polar Bear, Steel Automaton**
+- Unlocks and Linked to: **88**
+
+</details>
+<details>
   <summary>90 - Frozen Treasure - Seek golden wristbands like the ones we saw on a mummy</summary>
 
 - Was unlocked from job posting (town guard upgrade)
