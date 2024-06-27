@@ -56,7 +56,7 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 
 </details>
 <details>
-  <summary>86 - The Lady in White - Save a girl's brothers from The Collector</summary>
+  <summary>86 - The Lady in White - Break a ghost's curse on a family trying to conceive</summary>
 - Job Posting
 - Region: **Frosthaven**
 - Enemies: **Black Imp, Earth Demon, Ice Wraith**
