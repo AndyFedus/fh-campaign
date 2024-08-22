@@ -3,14 +3,6 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 # Available missions
 
 <details>
-  <summary>15 - Ancient Spire - March to the largest spire</summary>
-  
-- Region: **Crystal Fields**
-- Enemies: **Chaos Demon, Robotic Boltshooter, Ruined Machine**
-- Linked to: **23, 24**
-
-</details>
-<details>
   <summary>16 - Derelict Elevator - Investigate the shorter, wider spire</summary>
   
 - Region: **Crystal Fields**
@@ -38,14 +30,6 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - Requirements:
   - [x] Sled
 - Unlocks: **52**
-
-</details>
-<details>
-  <summary>49 - Beneath Sea and Stone - Without a mental bomb, fight a Lurker horde for a shard of the crown</summary>
-  
-- Region: **Biting Sea**
-- Enemies: **Black Imp, Deep Terror, Frost Demon**
-- Unlocks and Linked to: **53**
 
 </details>
 <details>
