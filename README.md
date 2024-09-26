@@ -3,13 +3,23 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 # Available missions
 
 <details>
-  <summary>16 - Derelict Elevator - Investigate the shorter, wider spire</summary>
+  <summary>25 - Rusted Tunnels - Fight the elevator defenders head-on</summary>
   
 - Region: **Crystal Fields**
-- Enemies: **Ancient Artillery, Flaming Bladespinner, Ruined Machine**
-- Linked to: **25, 26**
+- Enemies: **Robotic Boltshooter, Flaming Bladespinner, Ruined Machine**
+- Unlocks: **35 (calendar)**
+- Mutually exclusive with 26
+</details>
+<details>
+  <summary>26 - Quatryl Library - Explore the direction opposite the elevator's defenders</summary>
+  
+- Region: **Crystal Fields**
+- Enemies: **Ancient Artillery, Ruined Machine, Steel Automaton**
+- Unlocks: **36 (calendar), 37 (calendar)**
+- Mutually exclusive with 25
 
 </details>
+
 <details>
   <summary>45 - Living Glacier - Obtain magic ice to help purify the Algox corruption</summary>
   
@@ -44,14 +54,6 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - Job Posting
 - Region: **Frosthaven**
 - Enemies: **Black Imp, Earth Demon, Ice Wraith**
-
-</details>
-<details>
-  <summary>87 - The Collection - Save a girl's brothers from The Collector</summary>
-- Job Posting
-- Region: **Whitefire Woods**
-- Enemies: **Algox Archer, Algox Guard, Flaming Bladespinner, Lurker Clawcrusher, Polar Bear, Steel Automaton**
-- Unlocks and Linked to: **88**
 
 </details>
 <details>
