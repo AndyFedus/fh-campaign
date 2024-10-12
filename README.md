@@ -84,6 +84,25 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - Enemies: **Algox Archer, Algox Guard, Algox Icespeaker, Algox Scout**
 
 </details>
+
+<details>
+  <summary>109 - Furious Factory - Follow a 3D map to a factory</summary>
+
+- Random side scenario
+- Region: **Crystal Fields**
+- Enemies: **Ancient Artillery, Flaming Bladespinner, Ruined Machine, Steel Automaton**
+
+</details>
+
+<details>
+  <summary>110 - Guardian's Temple - Take the keystone to the archway</summary>
+
+- Random side scenario
+- Region: **Imperial Mountains**
+- Enemies: **Living Doom, Living Spirit, Ruined Machine, Shrike Fiend**
+
+</details>
+
 <details>
   <summary>120 - Under the Influence - Figure out what made us want to disembowel ourselves</summary>
 
