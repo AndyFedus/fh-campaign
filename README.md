@@ -3,35 +3,6 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 # Available missions
 
 <details>
-  <summary>25 - Rusted Tunnels - Fight the elevator defenders head-on</summary>
-  
-- Region: **Crystal Fields**
-- Enemies: **Robotic Boltshooter, Flaming Bladespinner, Ruined Machine**
-- Unlocks: **35 (calendar)**
-- Mutually exclusive with 26
-</details>
-<details>
-  <summary>26 - Quatryl Library - Explore the direction opposite the elevator's defenders</summary>
-  
-- Region: **Crystal Fields**
-- Enemies: **Ancient Artillery, Ruined Machine, Steel Automaton**
-- Unlocks: **36 (calendar), 37 (calendar)**
-- Mutually exclusive with 25
-
-</details>
-
-<details>
-  <summary>45 - Living Glacier - Obtain magic ice to help purify the Algox corruption</summary>
-  
-- Storyline: Algox
-- Region: **Biting Sea**
-- Enemies: **Abael Herder, Abael Scout, Lightning Eel, Piranha Pig**
-- Requirements:
-  - [x] Climbing Gear
-- Unlocks: **52**
-
-</details>
-<details>
   <summary>46 - Dead Pass - Obtain magic snow to help purify the Algox corruption</summary>
   
 - Storyline: Algox
@@ -40,13 +11,6 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - Requirements:
   - [x] Sled
 - Unlocks: **52**
-
-</details>
-<details>
-  <summary>80 - Relic Renewed - Recover the relic cube after it rolled off into the wilderness</summary>
-
-- Region: **Frosthaven**
-- Enemies: **Relic (Boss), Robotic Boltshooter, Ruined Machine, Steel Automaton**
 
 </details>
 <details>
