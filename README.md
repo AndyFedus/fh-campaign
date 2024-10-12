@@ -13,6 +13,17 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - Unlocks: **52**
 
 </details>
+
+<details>
+  <summary>78 - The Lurker Problem - "Lurkers" killed the family of a guy in a soaking wet trenchcoat; avenge them</summary>
+  
+- Job Posting
+- Enemies: **Abael Herder, Abael Scout, Lightning Eel, Lurker Soldier, Lurker Wavethrower, Piranha Pig**
+- Requirements:
+  - [x] Climbing Gear
+
+</details>
+
 <details>
   <summary>86 - The Lady in White - Break a ghost's curse on a family trying to conceive</summary>
 - Job Posting
@@ -29,6 +40,16 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - Unlocks and Linked to: **91**
 
 </details>
+
+<details>
+  <summary>92 - Sinking Ship - Recover supplies from a sinking ship</summary>
+
+- Was unlocked from job posting (town guard upgrade)
+- Region: **Biting Sea**
+- Enemies: **Lightning Eel, Lurker Clawcrusher, Lurker Mindsnipper, Lurker Soldier, Lurker Wavethrower**
+
+</details>
+
 <details>
   <summary>99 - Prison Break - Accept the job posting of an elderly Orchid</summary>
 
