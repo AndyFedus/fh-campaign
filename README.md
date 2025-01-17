@@ -3,18 +3,6 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 # Available missions
 
 <details>
-  <summary>46 - Dead Pass - Obtain magic snow to help purify the Algox corruption</summary>
-  
-- Storyline: Algox
-- Region: **Copperneck Mountains**
-- Enemies: **Burrowing Blade, Frozen Corpse, Shrike Fiend**
-- Requirements:
-  - [x] Sled
-- Unlocks: **52**
-
-</details>
-
-<details>
   <summary>78 - The Lurker Problem - "Lurkers" killed the family of a guy in a soaking wet trenchcoat; avenge them</summary>
   
 - Job Posting
@@ -109,14 +97,6 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - Was unlocked by event
 - Region: **Frosthaven**
 - Enemies: **City Guard, Hound, Robotic Boltshooter, Steel Automaton, Vermling Priest, Vermling Scout**
-
-</details>
-<details>
-  <summary>132 - Temple of Feline Power - Follow Mulbrynn's map to a treasure</summary>
-
-- Was unlocked by job posting
-- Region: **Imperial Mountains**
-- Enemies: **Frost Demon, Frozen Corpse, Ice Wraith, Snow Imp**
 
 </details>
 <details>
