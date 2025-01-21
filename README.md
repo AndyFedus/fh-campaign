@@ -2,6 +2,12 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 
 # Available missions
 
+31
+36
+37
+119
+
+
 <details>
   <summary>78 - The Lurker Problem - "Lurkers" killed the family of a guy in a soaking wet trenchcoat; avenge them</summary>
   
