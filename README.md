@@ -1,12 +1,27 @@
 Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhwUkSFeD8NhGxmkQxFpTyTr2iK5xbP4/edit?usp=sharing
 
-# Available missions
+# Available missions                                                                                          
 
-31
-36
-37
-119
+<details>
+  <summary>31 - Crackling Tunnel - Investigate the lingering energy described in the puzzle book</summary>
+  
+- Puzzle Book
+- Enemies: **Flaming Bladespinner, Robotic Boltshooter, Steel Automaton**
+</details>
 
+<details>
+  <summary>36 - Buried Ducts - Approach the core of the Unfettered facility via the ducts</summary>
+  
+- Enemies: **Flaming Bladespinner, Robotic Boltshooter, Ruined Machine**
+- Locks out 37
+</details>
+
+<details>
+  <summary>37 - The Dead Mile - Approach the core of the Unfettered facility via the transportation system</summary>
+  
+- Enemies: **Flaming Bladespinner, Robotic Boltshooter, Ruined Machine**
+- Locks out 36
+</details>
 
 <details>
   <summary>78 - The Lurker Problem - "Lurkers" killed the family of a guy in a soaking wet trenchcoat; avenge them</summary>
@@ -41,6 +56,14 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - Was unlocked from job posting (town guard upgrade)
 - Region: **Biting Sea**
 - Enemies: **Lightning Eel, Lurker Clawcrusher, Lurker Mindsnipper, Lurker Soldier, Lurker Wavethrower**
+
+</details>
+
+<details>
+  <summary>96 - Underground Station - Investigate a report of robots</summary>
+
+- Was unlocked from job posting (town guard upgrade)
+- Enemies: **Ancient Artillery, Black Imp, Rending Drake**
 
 </details>
 
@@ -96,6 +119,13 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - Enemies: **Living Doom, Living Spirit, Ruined Machine, Shrike Fiend**
 
 </details>
+
+<details>
+  <summary>119 - Radiant Dust - Help the Infuser find a new power source</summary>
+  
+- Enemies: **Burrowing Blade, Polar Bear, Rending Drake, Shrike Fiend, Spitting Drake**
+</details>
+
 
 <details>
   <summary>120 - Under the Influence - Figure out what made us want to disembowel ourselves</summary>
