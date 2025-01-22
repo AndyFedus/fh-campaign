@@ -34,13 +34,6 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 </details>
 
 <details>
-  <summary>86 - The Lady in White - Break a ghost's curse on a family trying to conceive</summary>
-- Job Posting
-- Region: **Frosthaven**
-- Enemies: **Black Imp, Earth Demon, Ice Wraith**
-
-</details>
-<details>
   <summary>90 - Frozen Treasure - Seek golden wristbands like the ones we saw on a mummy</summary>
 
 - Was unlocked from job posting (town guard upgrade)
