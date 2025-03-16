@@ -3,27 +3,6 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 # Available missions                                                                                          
 
 <details>
-  <summary>31 - Crackling Tunnel - Investigate the lingering energy described in the puzzle book</summary>
-  
-- Puzzle Book
-- Enemies: **Flaming Bladespinner, Robotic Boltshooter, Steel Automaton**
-</details>
-
-<details>
-  <summary>36 - Buried Ducts - Approach the core of the Unfettered facility via the ducts</summary>
-  
-- Enemies: **Flaming Bladespinner, Robotic Boltshooter, Ruined Machine**
-- Locks out 37
-</details>
-
-<details>
-  <summary>37 - The Dead Mile - Approach the core of the Unfettered facility via the transportation system</summary>
-  
-- Enemies: **Flaming Bladespinner, Robotic Boltshooter, Ruined Machine**
-- Locks out 36
-</details>
-
-<details>
   <summary>78 - The Lurker Problem - "Lurkers" killed the family of a guy in a soaking wet trenchcoat; avenge them</summary>
   
 - Job Posting
@@ -112,13 +91,6 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - Enemies: **Living Doom, Living Spirit, Ruined Machine, Shrike Fiend**
 
 </details>
-
-<details>
-  <summary>119 - Radiant Dust - Help the Infuser find a new power source</summary>
-  
-- Enemies: **Burrowing Blade, Polar Bear, Rending Drake, Shrike Fiend, Spitting Drake**
-</details>
-
 
 <details>
   <summary>120 - Under the Influence - Figure out what made us want to disembowel ourselves</summary>
