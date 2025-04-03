@@ -40,12 +40,11 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 </details>
 
 <details>
-  <summary>99 - Prison Break - Accept the job posting of an elderly Orchid</summary>
+  <summary>100 - Inside the Swarm - Help string back together a Harrower's hive mind</summary>
 
 - Was unlocked from job posting (town guard upgrade)
-- Region: **???**
-- Enemies: **Frozen Corpse, Robotic Boltshooter, Steel Automaton**
-- Unlocks: **100**
+- Enemies: **Burrowing Blade, Earth Demon, Lurker Mindsnipper, Shrike Fiend**
+- Unlocks: **101**
 
 </details>
 <details>
@@ -109,4 +108,12 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - Region: **Radiant Forest**
 - Enemies: **Flaming Bladespinner, Robotic Boltshooter, Ruined Machine, Shrike Fiend, Steel Automaton**
 
+</details>
+<details>
+  <summary>136 - Abandoned Hideout - Find the final coin</summary>
+
+  - Requirements:
+    -  Boat, all other coins
+  - Region: **Biting Sea**
+  - Enemies: Lightning Eel, Living Bones, Living Spirit, Lurker Wavethrower, Piranha Pig
 </details>
