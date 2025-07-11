@@ -109,11 +109,5 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - Enemies: **Flaming Bladespinner, Robotic Boltshooter, Ruined Machine, Shrike Fiend, Steel Automaton**
 
 </details>
-<details>
-  <summary>136 - Abandoned Hideout - Find the final coin</summary>
+69
 
-  - Requirements:
-    -  Boat, all other coins
-  - Region: **Biting Sea**
-  - Enemies: Lightning Eel, Living Bones, Living Spirit, Lurker Wavethrower, Piranha Pig
-</details>
