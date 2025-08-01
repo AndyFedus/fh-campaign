@@ -109,7 +109,7 @@ Graphical representation: https://docs.google.com/spreadsheets/d/1gm7F4HDdPcIWhw
 - Enemies: **Flaming Bladespinner, Robotic Boltshooter, Ruined Machine, Shrike Fiend, Steel Automaton**
 
 </details>
-69
+127
 137
-61
+
 
